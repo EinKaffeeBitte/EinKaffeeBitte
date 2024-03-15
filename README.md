@@ -1,5 +1,6 @@
 # Relation
-I was previously UserName-None but 2FA failed to authenticate so I had to unlink email, download all my repos and create new account. Sorry for the incinvenience, now all the code and updates are moved to this account.
+I was previously UserName-None but 2FA failed to authenticate so I had to unlink email, download all my repos and create new account. Sorry for the inconvenience, now all the code and updates are moved to this account.
+Update: finally one of the recovery codes worked. But I already published my extension to Firefox Addons using this account and it would be even more work to change it back. Solution? Deleted the old account. Also the name wasn't funny anymore :)
 
 # Who am I
 I am a student and I use my free time to develop these projects. I also had a YouTube channel (previously for gaming, discontinued for now) named ChocolateGamer1024. Planning to change it for devlogs.
