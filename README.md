@@ -9,12 +9,19 @@ I am a student and I use my free time to develop these projects. I also had a Yo
 Because it is only me and I have little free time. However, you can help me! Email me at gamedeveloper1024@outlook.com and maybe we can code together.
 
 # Specs (Updated 14/03/2024)
+
 CPU: Intel Celeron J4025
+
 GPU: Intel UHD Graphics 600
+
 RAM: 8GB DDR4
+
 SSD: Samsung 256GB
+
 Extra USB HDD: Toshiba 1 TB
+
 OS: Windows 11 Pro (MAS Activated)
+
 Computer Model: Acer Aspire XC-830
 
 ## Other
