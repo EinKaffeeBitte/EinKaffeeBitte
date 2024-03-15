@@ -26,10 +26,17 @@ Computer Model: Acer Aspire XC-830
 
 ## Other
 Code Editor: VSCode, Visual Studio Community 2022
+
 Programming Languages: Python, C#, Brainfuck.
+
 Experience in: Tkinter, Python, a little in Unity C# Game Dev, ~ WinUI3, UWP, WPF, 100% Brainfuck, Extension Development.
+
 Gender: Alien :)
+
 Like: Collaboration, Python, TF2, classic stuff, MATH + PHYSICS + CHEMISTRY, learning strange and weird programming languages, dark mode, Windows 11 Fluent Design System, open source, Linux, Ungoogled Software.
+
 Don't Like: being forced to use light mode.
+
 AI tools I use: Codeium + Tabnine.
+
 Browser: Ungoogled Chromium 122
